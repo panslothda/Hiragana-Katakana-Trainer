@@ -75,7 +75,7 @@ if __name__ == '__main__':
 	exercise_2 = int(input(':'))
 	if exercise_2 == 1:
 		hiragana_training_hira_2_eng() 
-		if exercise_2 == 2:
+	if exercise_2 == 2:
 		hiragana_training_eng_2_hira()
 
 	if exercise == 2:
@@ -85,7 +85,6 @@ if __name__ == '__main__':
 	exercise_3 = int(input(':'))
 	if exercise_3 == 1:
 		katakana_training_kata_2_eng() 
-		if exercise_3 == 2:
+	if exercise_3 == 2:
 		katakana_training_eng_2_kata()
-	)
 
